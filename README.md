@@ -1,3 +1,3 @@
 # WebSocketChat
 ##
-<img src="https://github.com/devalparikh/CoinFIt/blob/master/sample.gif" width="162" height="285" />
+<img src="https://github.com/devalparikh/WebSocketChat/blob/master/sample.gif" width="285" height="162" />

@@ -12,6 +12,10 @@
   },
   "author": "Deval Parikh",
   "license": "ISC",
+  "dependencies": {
+    "socket.io": "*",
+    "express": "*"
+  },
   "bugs": {
     "url": "https://github.com/devalparikh/WebSocketChat/issues"
   },
